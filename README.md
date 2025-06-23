@@ -1,7 +1,5 @@
 # AI in Social Analysis
 
-# AI in Social Analysis
-
 This is a research and demonstration project focused on the application of Artificial Intelligence to the analysis of social media comments—primarily from Facebook and YouTube. Its main purpose is to showcase how AI models can extract meaningful insights from user interactions and compare different user populations engaging with the same content across platforms. Through this analysis, the project aims to highlight patterns, contrasts, and similarities in online behavior and expression, using real-world data in a controlled, illustrative context.
 
 
